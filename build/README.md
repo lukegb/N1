@@ -1,6 +1,3 @@
-# N1 Build Environment
-Node version 0.10.x (Due to the version of electron currently used.)
-
 # N1 Building and Tasks
 
 This folder contains tasks to create production builds of N1
